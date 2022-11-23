@@ -1,13 +1,13 @@
 h1 {
-   color: #2980B9;
+   color: #000066;
 }
 
 .wy-side-nav-search:before{
    content: '';
-   height: 40px;
+   height: 150px;
    width: 100%;
    display: block;
-   background-image: url(logo.svg);
+   background-image: url(Rose.png);
    background-repeat: no-repeat;
    background-position: center center;
    margin-bottom: 20px;
