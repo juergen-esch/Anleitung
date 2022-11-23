@@ -1,5 +1,5 @@
 # Viele Grüße von Jürgen
-
+Diese Ergänzung habe ich auf dem geclonten System auf meinem Büro-Arbeitsplatzcomputer vorgenommen, nicht auf dem Notebook, auf dem dieses Repository erstellt wurde.g
 ## Lorem ipsum
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.
 
